@@ -37,4 +37,6 @@
 - **1**. **<u>北橋倫</u>**, 嶋永元裕, 井上広滋, 渡部裕美 (2010). 熱水噴出域のメイオファウナの定量的研究におけるサンプラーバイアスについて：内径の異なる2種類のハンドコアラーによる堆積物の比較. ***<font color="blue">JAMSTEC Report of Research and Development</font>*** 10, 33–39. <a href="http://www.godac.jamstec.go.jp/catalog/doc_catalog/metadataDisp/JAM_RandD10_03?lang=ja&view=detail" target="_blank">LINK</a>
 
 ***
-## 原著論文・査読あり
+## 原著論文・査読なし
+
+- **1**. B01. 西島美由紀，中村匡聡，北橋倫 (2017)．海底鉱物資源開発に伴う環境影響評価のためのメタゲノム解析法．***<font color="blue">第26回海洋工学シンポジウム講演論文集</font>*** OES26-027.
