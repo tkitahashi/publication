@@ -6,7 +6,7 @@
 
 - **15**. Kitahashi, T., Jenkins, R.G., Kojima, S., Shimanaga, M. (2018). High resilience of harpacticoid copepods in the landward slope of the Japan Trench against disturbance of the 2011 Tohoku Earthquake. ***<font color="blue">Limnology and Oceanography</font>*** 63, 2751–2761.
 
-- **14**. Uejima, Y., Nomaki, H., Senokuchi, R., Setoguchi, Y., **<u>Kitahashi, T.</u>**, Watanabe-Kayama, H., Shimanaga, M. (2017). Meiofaunal communities in hydrothermal vent and proximate non‐vent habitats around neighboring seamounts on the Izu‐Ogasawara Arc, western North Pacific Ocean. **<font color="blue">Marine Biology</font>** 164:183. [LINL](https://doi.org/10.1007/s00227-017-3218-6)
+- **14**. Uejima, Y., Nomaki, H., Senokuchi, R., Setoguchi, Y., **<u>Kitahashi, T.</u>**, Watanabe-Kayama, H., Shimanaga, M. (2017). Meiofaunal communities in hydrothermal vent and proximate non‐vent habitats around neighboring seamounts on the Izu‐Ogasawara Arc, western North Pacific Ocean. **<font color="blue">Marine Biology</font>** 164:183. [LINK](https://doi.org/10.1007/s00227-017-3218-6) <a href="http://www.finalstream.net" target="_blank">Finalstream</a>
 
 - **13**. Noguchi, T., **<u>Kitahashi, T.</u>**, Shinohara, G., Hashimoto, J., Kojima, S. (2016). Morphological differences among snipefishes (Macroramphosidae: Macroramphosus) from the Pacific and Atlantic oceans. **<font color="blue">Plankton and Benthos Research</font>** 11, 147–150.
 
