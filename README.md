@@ -1,5 +1,7 @@
 # publication
 
+## 原著論文・査読あり
+
 - **17**. Senokuchi, R., Nomaki, H., Watanabe, H.K., **<u>Kitahashi, T.</u>**, Ogawa, N.O., Shimanaga, M. (accepted). Chemoautotrophic food availability influences copepod assemblage composition at deep hydrothermal vent sites within sea knoll calderas in the northwestern Pacific. ***<font color="blue">Marine Ecology Progress Series</font>***
 
 - **16**. Kitahashi, T., Watanabe, H.K., Tsuchiya, M., Yamamoto, H., Yamamoto, H. (2018). A new method for acquiring meiobenthic images using FlowCAM. ***<font color="blue">MethodsX</font>*** 5, 1330–1335. <a href="https://doi.org/10.1016/J.MEX.2018.10.012" target="_blank">LINK</a>
@@ -33,3 +35,6 @@
 - **2**. Itoh, M., Kawamura, K., **<u>Kitahashi, T.</u>**, Kojima, S., Katagiri, H., Shimanaga, M. (2011). Bathymetric patterns of meiofaunal abundance and biomass associated with the Kuril and Ryukyu trenches, western North Pacific Ocean. ***<font color="blue">Deep-Sea Research Part I</font>*** 58, 86–97. <a href="https://doi.org/10.1016/j.dsr.2010.12.004" target="_blank">LINK</a>
 
 - **1**. **<u>北橋倫</u>**, 嶋永元裕, 井上広滋, 渡部裕美 (2010). 熱水噴出域のメイオファウナの定量的研究におけるサンプラーバイアスについて：内径の異なる2種類のハンドコアラーによる堆積物の比較. ***<font color="blue">JAMSTEC Report of Research and Development</font>*** 10, 33–39. <a href="http://www.godac.jamstec.go.jp/catalog/doc_catalog/metadataDisp/JAM_RandD10_03?lang=ja&view=detail" target="_blank">LINK</a>
+
+***
+## 原著論文・査読あり
