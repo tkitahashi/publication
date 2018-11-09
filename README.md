@@ -4,9 +4,9 @@
 
 - **17.** Senokuchi, R., Nomaki, H., Watanabe, H.K., **<u>Kitahashi, T.</u>**, Ogawa, N.O., Shimanaga, M. (accepted). Chemoautotrophic food availability influences copepod assemblage composition at deep hydrothermal vent sites within sea knoll calderas in the northwestern Pacific. ***<font color="blue">Marine Ecology Progress Series</font>***
 
-- **16.** Kitahashi, T., Watanabe, H.K., Tsuchiya, M., Yamamoto, H., Yamamoto, H. (2018). A new method for acquiring meiobenthic images using FlowCAM. ***<font color="blue">MethodsX</font>*** 5, 1330–1335. <a href="https://doi.org/10.1016/J.MEX.2018.10.012" target="_blank">LINK</a>
+- **16.** **<u>Kitahashi, T.</u>**, Watanabe, H.K., Tsuchiya, M., Yamamoto, H., Yamamoto, H. (2018). A new method for acquiring meiobenthic images using FlowCAM. ***<font color="blue">MethodsX</font>*** 5, 1330–1335. <a href="https://doi.org/10.1016/J.MEX.2018.10.012" target="_blank">LINK</a>
 
-- **15.** Kitahashi, T., Jenkins, R.G., Kojima, S., Shimanaga, M. (2018). High resilience of harpacticoid copepods in the landward slope of the Japan Trench against disturbance of the 2011 Tohoku Earthquake. ***<font color="blue">Limnology and Oceanography</font>*** 63, 2751–2761. <a href="https://doi.org/10.1002/lno.11006" target="_blank">LINK</a>
+- **15.** **<u>Kitahashi, T.</u>**, Jenkins, R.G., Kojima, S., Shimanaga, M. (2018). High resilience of harpacticoid copepods in the landward slope of the Japan Trench against disturbance of the 2011 Tohoku Earthquake. ***<font color="blue">Limnology and Oceanography</font>*** 63, 2751–2761. <a href="https://doi.org/10.1002/lno.11006" target="_blank">LINK</a>
 
 - **14.** Uejima, Y., Nomaki, H., Senokuchi, R., Setoguchi, Y., **<u>Kitahashi, T.</u>**, Watanabe-Kayama, H., Shimanaga, M. (2017). Meiofaunal communities in hydrothermal vent and proximate non‐vent habitats around neighboring seamounts on the Izu‐Ogasawara Arc, western North Pacific Ocean. ***<font color="blue">Marine Biology</font>*** 164:183. <a href="https://doi.org/10.1007/s00227-017-3218-6" target="_blank">LINK</a>
 
@@ -39,4 +39,4 @@
 
 ## 原著論文・査読なし
 
-- **1.** B01. 西島美由紀，中村匡聡，北橋倫 (2017)．海底鉱物資源開発に伴う環境影響評価のためのメタゲノム解析法. ***<font color="blue">第26回海洋工学シンポジウム講演論文集</font>*** OES26-027.
+- **1.** B01. 西島美由紀，中村匡聡，**<u>北橋倫</u>** (2017)．海底鉱物資源開発に伴う環境影響評価のためのメタゲノム解析法. ***<font color="blue">第26回海洋工学シンポジウム講演論文集</font>*** OES26-027.
