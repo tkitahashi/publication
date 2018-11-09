@@ -1,4 +1,4 @@
-# publication
+# Publications
 
 ## 原著論文・査読あり
 
