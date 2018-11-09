@@ -1,6 +1,6 @@
 # publication
 
-- **<font size=5>17</font>**. Senokuchi, R., Nomaki, H., Watanabe, H.K., **<u>Kitahashi, T.</u>**, Ogawa, N.O., Shimanaga, M. (accepted). Chemoautotrophic food availability influences copepod assemblage composition at deep hydrothermal vent sites within sea knoll calderas in the northwestern Pacific. ***<font color="blue">Marine Ecology Progress Series</font>***
+- **17**. Senokuchi, R., Nomaki, H., Watanabe, H.K., **<u>Kitahashi, T.</u>**, Ogawa, N.O., Shimanaga, M. (accepted). Chemoautotrophic food availability influences copepod assemblage composition at deep hydrothermal vent sites within sea knoll calderas in the northwestern Pacific. ***<font color="light blue">Marine Ecology Progress Series</font>***
 
 - **16**. Kitahashi, T., Watanabe, H.K., Tsuchiya, M., Yamamoto, H., Yamamoto, H. (2018). A new method for acquiring meiobenthic images using FlowCAM. MethodsX 5, 1330–1335.
 
