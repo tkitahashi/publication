@@ -10,7 +10,7 @@
 
 - **13**. Noguchi, T., **<u>Kitahashi, T.</u>**, Shinohara, G., Hashimoto, J., Kojima, S. (2016). Morphological differences among snipefishes (Macroramphosidae: Macroramphosus) from the Pacific and Atlantic oceans. **<font color="blue">Plankton and Benthos Research</font>** 11, 147–150. <a href="https://doi.org/10.3800/pbr.11.147" target="_blank">LINK</a>
 
-- **12**. Nomaki, H., Bernhard, J.M., Ishida, A., Tsuchiya, M., Uematsu, K., Tame, A., **<u>Kitahashi, T.</u>**, Takahata, N., Sano, Y., Toyofuku, T. (2016). Intracellular isotope localization in Ammonia sp. (Foraminifera) of oxygen-depleted environments: results of nitrate and sulfate labeling experiments. **<font color="blue">Frontiers in Microbiology</font>*** 7, 163. <a href="https://doi.org/10.3389/fmicb.2016.00163" target="_blank">LINK</a>
+- **12**. Nomaki, H., Bernhard, J.M., Ishida, A., Tsuchiya, M., Uematsu, K., Tame, A., **<u>Kitahashi, T.</u>**, Takahata, N., Sano, Y., Toyofuku, T. (2016). Intracellular isotope localization in Ammonia sp. (Foraminifera) of oxygen-depleted environments: results of nitrate and sulfate labeling experiments. **<font color="blue">Frontiers in Microbiology</font>** 7, 163. <a href="https://doi.org/10.3389/fmicb.2016.00163" target="_blank">LINK</a>
 
 - **11**. **<u>Kitahashi, T.</u>**, Watanabe, H., Ikehara, K., Jenkins, R.G., Kojima, S., Shimanaga, M. (2016). Deep-sea meiofauna off the Pacific coast of Tohoku and other trench slopes around Japan: A comparative study before and after the 2011 off the Pacific coast of Tohoku Earthquake. **<font color="blue">Journal of Oceanography</font>** 72, 129–139. <a href="https://doi.org/10.1007/s10872-015-0323-3" target="_blank">LINK</a>
 
@@ -18,7 +18,7 @@
 
 - **9**. Nomaki, H., Mochizuki, T., **<u>Kitahashi, T.</u>**, Nunoura, T., Arai, K., Toyofuku, T., Tanaka, G., Shigeno, S., Tasumi, E., Fujikura, K., Watanabe, S. (2016). Effects of mass sedimentation events after the 2011 off the Pacific coast of Tohoku earthquake on benthic prokaryotes and meiofauna inhabiting the upper bathyal sediments. **<font color="blue">Journal of Oceanography</font>** 72, 113–128. <a href="https://doi.org/10.1007/s10872-015-0293-5" target="_blank">LINK</a>
 
-- **8**. Noguchi, T., Sakuma, K., **<u>Kitahashi, T.</u>**, Itoh, H., Kano, Y., Shinohara, G., Hashimoto, J., Kojima, S. (2015). No genetic deviation between two morphotypes of the snipefishes (Macroramphosidae: Macroramphosus) in Japanese waters. Ichthyological Research</font>** 62, 368–373. <a href="https://doi.org/10.1007/s10228-014-0443-6" target="_blank">LINK</a>
+- **8**. Noguchi, T., Sakuma, K., **<u>Kitahashi, T.</u>**, Itoh, H., Kano, Y., Shinohara, G., Hashimoto, J., Kojima, S. (2015). No genetic deviation between two morphotypes of the snipefishes (Macroramphosidae: Macroramphosus) in Japanese waters. **<font color="blue">Ichthyological Research</font>** 62, 368–373. <a href="https://doi.org/10.1007/s10228-014-0443-6" target="_blank">LINK</a>
 
 - **7**. **<u>Kitahashi, T.</u>**, Jenkins, R.G., Nomaki, H., Shimanaga, M., Fujikura, K., Kojima, S. (2014). Effect of the 2011 Tohoku Earthquake on deep-sea meiofaunal assemblages inhabiting the landward slope of the Japan Trench. **<font color="blue">Marine Geology</font>** 358, 128–137. <a href="https://doi.org/10.1016/j.margeo.2014.05.004" target="_blank">LINK</a>
 
