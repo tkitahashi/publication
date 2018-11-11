@@ -1,5 +1,9 @@
 # Publications
 
+### Google Scholor: Link
+### ResearchGate: Link
+
+
 ## 原著論文・査読あり
 
 - **17.** Senokuchi, R., Nomaki, H., Watanabe, H.K., **<u>Kitahashi, T.</u>**, Ogawa, N.O., Shimanaga, M. (accepted). Chemoautotrophic food availability influences copepod assemblage composition at deep hydrothermal vent sites within sea knoll calderas in the northwestern Pacific. ***<font color="blue">Marine Ecology Progress Series</font>*** **<font color="red">NEW!</font>**
