@@ -2,11 +2,11 @@
 
 ## 原著論文・査読あり
 
-- **17.** Senokuchi, R., Nomaki, H., Watanabe, H.K., **<u>Kitahashi, T.</u>**, Ogawa, N.O., Shimanaga, M. (accepted). Chemoautotrophic food availability influences copepod assemblage composition at deep hydrothermal vent sites within sea knoll calderas in the northwestern Pacific. ***<font color="blue">Marine Ecology Progress Series</font>*** **<font color="res">NEW!</font>**
+- **17.** Senokuchi, R., Nomaki, H., Watanabe, H.K., **<u>Kitahashi, T.</u>**, Ogawa, N.O., Shimanaga, M. (accepted). Chemoautotrophic food availability influences copepod assemblage composition at deep hydrothermal vent sites within sea knoll calderas in the northwestern Pacific. ***<font color="blue">Marine Ecology Progress Series</font>*** **<font color="red">NEW!</font>**
 
-- **16.** **<u>Kitahashi, T.</u>**, Watanabe, H.K., Tsuchiya, M., Yamamoto, H., Yamamoto, H. (2018). A new method for acquiring meiobenthic images using FlowCAM. ***<font color="blue">MethodsX</font>*** 5, 1330–1335. <a href="https://doi.org/10.1016/J.MEX.2018.10.012" target="_blank">[LINK]</a> **<font color="res">NEW!</font>**
+- **16.** **<u>Kitahashi, T.</u>**, Watanabe, H.K., Tsuchiya, M., Yamamoto, H., Yamamoto, H. (2018). A new method for acquiring meiobenthic images using FlowCAM. ***<font color="blue">MethodsX</font>*** 5, 1330–1335. <a href="https://doi.org/10.1016/J.MEX.2018.10.012" target="_blank">[LINK]</a> **<font color="red">NEW!</font>**
 
-- **15.** **<u>Kitahashi, T.</u>**, Jenkins, R.G., Kojima, S., Shimanaga, M. (2018). High resilience of harpacticoid copepods in the landward slope of the Japan Trench against disturbance of the 2011 Tohoku Earthquake. ***<font color="blue">Limnology and Oceanography</font>*** 63, 2751–2761. <a href="https://doi.org/10.1002/lno.11006" target="_blank">[LINK]</a> **<font color="res">NEW!</font>**
+- **15.** **<u>Kitahashi, T.</u>**, Jenkins, R.G., Kojima, S., Shimanaga, M. (2018). High resilience of harpacticoid copepods in the landward slope of the Japan Trench against disturbance of the 2011 Tohoku Earthquake. ***<font color="blue">Limnology and Oceanography</font>*** 63, 2751–2761. <a href="https://doi.org/10.1002/lno.11006" target="_blank">[LINK]</a> **<font color="red">NEW!</font>**
 
 - **14.** Uejima, Y., Nomaki, H., Senokuchi, R., Setoguchi, Y., **<u>Kitahashi, T.</u>**, Watanabe-Kayama, H., Shimanaga, M. (2017). Meiofaunal communities in hydrothermal vent and proximate non‐vent habitats around neighboring seamounts on the Izu‐Ogasawara Arc, western North Pacific Ocean. ***<font color="blue">Marine Biology</font>*** 164:183. <a href="https://doi.org/10.1007/s00227-017-3218-6" target="_blank">[LINK]</a>
 
