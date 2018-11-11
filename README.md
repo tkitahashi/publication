@@ -1,7 +1,7 @@
 # Publications
 
-### Google Scholor: Link
-### ResearchGate: Link
+Google Scholor: <a href="https://scholar.google.com/citations?user=QNViJPsAAAAJ&hl=en" target="_blank">Link</a>
+ResearchGate: <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FTomo_Kitahashi&sa=D&sntz=1&usg=AFQjCNG3HJasD7H7S5lwLCuV4cIsVg-i4g" target="_blank">Link</a>
 
 
 ## 原著論文・査読あり
