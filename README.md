@@ -1,6 +1,6 @@
 # Publications
 <div style="text-align: center;">
-[back]()
+back
 </div>
 
 ResearcherID: <a href="http://www.researcherid.com/rid/U-7478-2018" target="_blank">Link</a>  
