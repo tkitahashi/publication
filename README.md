@@ -1,5 +1,7 @@
 # Publications
+<div style="text-align: center;">
 [back]()
+</div>
 
 ResearcherID: <a href="http://www.researcherid.com/rid/U-7478-2018" target="_blank">Link</a>  
 ORCID: <a href="https://orcid.org/0000-0001-6054-530X" target="_blank">Link</a>  
