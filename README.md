@@ -1,6 +1,7 @@
 # Publications
 
-ResearcherID: <a href="http://www.researcherid.com/rid/U-7478-2018" target="_blank">Link</a> 
+ResearcherID: <a href="http://www.researcherid.com/rid/U-7478-2018" target="_blank">Link</a>  
+ORCID: <a href=" https://orcid.org/0000-0001-6054-530X" target="_blank">Link</a>  
 Google Scholor: <a href="https://scholar.google.com/citations?user=QNViJPsAAAAJ&hl=en" target="_blank">Link</a>  
 ResearchGate: <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FTomo_Kitahashi&sa=D&sntz=1&usg=AFQjCNG3HJasD7H7S5lwLCuV4cIsVg-i4g" target="_blank">Link</a>
 
