@@ -1,5 +1,5 @@
 # Publications
-<div style="text-align: center;">
+<div style="text-align: right;">
 【センタリングする文章を記述】
 </div>
 
