@@ -1,6 +1,6 @@
 # Publications
 <div style="text-align: right;">
-【センタリングする文章を記述】
+[back]
 </div>
 
 ResearcherID: <a href="http://www.researcherid.com/rid/U-7478-2018" target="_blank">Link</a>  
