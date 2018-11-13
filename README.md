@@ -50,5 +50,11 @@ ResearchGate: <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.researchga
 
 - **1.** B01. 西島美由紀，中村匡聡，**<u>北橋倫</u>** (2017)．海底鉱物資源開発に伴う環境影響評価のためのメタゲノム解析法. ***<font color="blue">第26回海洋工学シンポジウム講演論文集</font>*** OES26-027.
 
+## その他
+
+- 熊本大学大学院自然科学教育部ニュースレター『森と風』  寄稿
+
+- 誠文堂新光社『理科好きな子に育つふしぎのお話365』  取材協力
+
 ___
 **[[HOME]](https://tkitahashi.github.io/)  [[CV]](https://tkitahashi.github.io/cv/)  [[研究業績]](https://tkitahashi.github.io/publication/)  [[学会発表]](https://tkitahashi.github.io/presentation/)  [[研究乗船歴]](https://tkitahashi.github.io/cruise/)**
