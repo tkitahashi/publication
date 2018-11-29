@@ -55,7 +55,8 @@ ResearchGate: <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.researchga
 - 熊本大学大学院自然科学教育部ニュースレター『森と風』  寄稿　<a href="https://www.fast.kumamoto-u.ac.jp/gsst/moritokaze/%e5%85%88%e8%bc%a9%e3%81%8b%e3%82%89%e3%81%ae%e3%83%a1%e3%83%83%e3%82%bb%e3%83%bc%e3%82%b8%e3%80%80%e5%8c%97%e6%a9%8b%e5%80%ab/" target="_blank">[LINK]</a>
 
 
-- 誠文堂新光社『理科好きな子に育つふしぎのお話365』  取材協力
+- 誠文堂新光社『理科好きな子に育つふしぎのお話365』  取材協力　<a href="https://www.amazon.co.jp/%E7%90%86%E7%A7%91%E5%A5%BD%E3%81%8D%E3%81%AA%E5%AD%90%E3%81%AB%E8%82%B2%E3%81%A4-%E3%81%B5%E3%81%97%E3%81%8E%E3%81%AE%E3%81%8A%E8%A9%B1365-%E8%A6%8B%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%E3%80%81%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%E3%80%81%E3%81%95%E3%82%8F%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86-%E4%BD%93%E9%A8%93%E5%9E%8B%E8%AA%AD%E3%81%BF%E8%81%9E%E3%81%8B%E3%81%9B%E3%83%96%E3%83%83%E3%82%AF-%E8%87%AA%E7%84%B6%E5%8F%B2%E5%AD%A6%E4%BC%9A%E9%80%A3%E5%90%88/dp/4416115008/ref=sr_1_1/355-8449196-5408116?ie=UTF8&qid=1543456098&sr=8-1&keywords=%E7%90%86%E7%A7%91%E5%A5%BD%E3%81%8D%E3%81%AA%E5%AD%90%E3%81%AB%E8%82%B2%E3%81%A4+%E3%81%B5%E3%81%97%E3%81%8E%E3%81%AE%E3%81%8A%E8%A9%B1365" target="_blank">[Amazon]</a>
+  「8月18日：砂浜には目に見えない生き物がうじゃうじゃ」
 
 ___
 **[[HOME]](https://tkitahashi.github.io/)  [[CV]](https://tkitahashi.github.io/cv/)  [[研究業績]](https://tkitahashi.github.io/publication/)  [[学会発表]](https://tkitahashi.github.io/presentation/)  [[研究乗船歴]](https://tkitahashi.github.io/cruise/)**
