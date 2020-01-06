@@ -52,6 +52,8 @@ ResearchGate: <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.researchga
 
 ## その他
 
+- Hondaキッズ　取材協力　「ふしぎ」を見に行こう　「深海ってどんな場所？マイペースにくらす深海生物のふしぎな生態」<a href="https://www.honda.co.jp/kids/explore/deep-sea/" target="_blank">[LINK]</a>
+- 第27回木原記念こども科学賞表彰式　講師　小さい実験「海岸の砂浜からマイクロプラスチックを見つけよう–海の生き物は困っているぞ！！–」
 - 熊本大学大学院自然科学教育部ニュースレター『森と風』  寄稿　<a href="https://www.fast.kumamoto-u.ac.jp/gsst/moritokaze/%e5%85%88%e8%bc%a9%e3%81%8b%e3%82%89%e3%81%ae%e3%83%a1%e3%83%83%e3%82%bb%e3%83%bc%e3%82%b8%e3%80%80%e5%8c%97%e6%a9%8b%e5%80%ab/" target="_blank">[LINK]</a>
 
 
